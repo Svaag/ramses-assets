@@ -1359,6 +1359,12 @@
         "name": "Dorito",
         "symbol": "DORITO",
         "decimals": 18
+      },
+      {
+        "address": "0x2775d5105276781B4b85bA6eA6a6653bEeD1dd32",
+        "name": "XAUt0",
+        "symbol": "XAUt0",
+        "decimals": 6
       }
     ]
   ],
