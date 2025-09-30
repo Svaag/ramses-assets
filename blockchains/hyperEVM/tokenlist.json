@@ -267,6 +267,12 @@
         "name": "Unit Plasma",
         "symbol": "UXPL",
         "decimals": 18
+      },
+      {
+        "address": "0x111111a1a0667d36bD57c0A9f569b98057111111",
+        "name": "USDH",
+        "symbol": "USDH",
+        "decimals": 6
       }
     ]
   ],
