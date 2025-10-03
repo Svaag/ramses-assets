@@ -261,6 +261,12 @@
         "name": "USDH",
         "symbol": "USDH",
         "decimals": 6
+      },
+      {
+        "address": "0x92eb91Ac8bc3ABE1812c0064e05e667335440D8E",
+        "name": "HypurrStrategy",
+        "symbol": "HYPSTR",
+        "decimals": 18
       }
     ]
   ],
