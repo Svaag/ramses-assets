@@ -353,6 +353,12 @@
         "decimals": 18
       },
       {
+        "name": "PHARAOH",
+        "address": "0x13A466998Ce03Db73aBc2d4DF3bBD845Ed1f28E7",
+        "symbol": "PHAR",
+        "decimals": 18
+      },
+      {
         "name": "STEAK",
         "address": "0xb279f8DD152B99Ec1D84A489D32c35bC0C7F5674",
         "decimals": 18,
