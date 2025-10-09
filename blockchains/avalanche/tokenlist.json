@@ -347,6 +347,12 @@
         "decimals": 18
       },
       {
+        "name": "xPHAR",
+        "address": "0xE8164Ea89665DAb7a553e667F81F30CfDA736B9A",
+        "symbol": "xPHAR",
+        "decimals": 18
+      },
+      {
         "name": "PHARAOH",
         "address": "0xAAAB9D12A30504559b0C5a9A5977fEE4A6081c6b",
         "symbol": "PHAR",
