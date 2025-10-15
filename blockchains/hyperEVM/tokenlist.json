@@ -273,6 +273,12 @@
         "name": "Kinetiq Earn Vault",
         "symbol": "vkHYPE",
         "decimals": 18
+      },
+      {
+        "address": "0x441794D6a8F9A3739F5D4E98a728937b33489D29",
+        "name": "Liquid HYPE Yield",
+        "symbol": "liquidHYPE",
+        "decimals": 18
       }
     ]
   ],
