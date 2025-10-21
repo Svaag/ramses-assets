@@ -279,6 +279,12 @@
         "name": "Liquid HYPE Yield",
         "symbol": "liquidHYPE",
         "decimals": 18
+      },
+      {
+        "address": "0x03832767BDf9A8EF007449942125Ad605aCfADb8",
+        "name": "Swap",
+        "symbol": "SWAP",
+        "decimals": 18
       }
     ]
   ],
