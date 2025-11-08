@@ -291,6 +291,12 @@
         "name": "SEDA",
         "symbol": "SEDA",
         "decimals": 18
+      },
+      {
+        "address": "0xbe068Bb3c7ef5B56360655638f75bf5A6C5f8C10",
+        "name": "Bitfrost Native ZEC",
+        "symbol": "bZEC",
+        "decimals": 18
       }
     ]
   ],
