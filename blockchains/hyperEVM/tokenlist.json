@@ -297,6 +297,12 @@
         "name": "Bitfrost Native ZEC",
         "symbol": "bZEC",
         "decimals": 18
+      },
+      {
+        "address": "0xd8FC8F0b03eBA61F64D08B0bef69d80916E5DdA9",
+        "name": "hyperbeat x ether.fi HYPE",
+        "symbol": "beHYPE",
+        "decimals": 18
       }
     ]
   ],
