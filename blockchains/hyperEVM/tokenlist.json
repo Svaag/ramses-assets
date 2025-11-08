@@ -303,6 +303,12 @@
         "name": "hyperbeat x ether.fi HYPE",
         "symbol": "beHYPE",
         "decimals": 18
+      },
+      {
+        "address": "0x81e064d0eB539de7c3170EDF38C1A42CBd752A76",
+        "name": "Hyperbeat LST Vault",
+        "symbol": "lstHYPE",
+        "decimals": 18
       }
     ]
   ],
