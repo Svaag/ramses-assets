@@ -309,6 +309,12 @@
         "name": "Hyperbeat LST Vault",
         "symbol": "lstHYPE",
         "decimals": 18
+      },
+      {
+        "address": "0x62D5dD0190376c444a4B2E2e860aa392eC83Ed80",
+        "name": "Chomolon Joff",
+        "symbol": "JOFF",
+        "decimals": 8
       }
     ]
   ],
